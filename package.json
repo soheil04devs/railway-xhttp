@@ -1,0 +1,13 @@
+{
+  "name": "railway-relay-proxy",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "fastify": "^4.0.0",
+    "@fastify/http-proxy": "^9.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
